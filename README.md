@@ -68,6 +68,18 @@ Datasets/
         └── image20.jpg
 ```
 
+## Results
+
+<div style="display:flex; flex-direction:row;">
+    <div>
+        <h3>Accuracy</h3>
+        <img src="https://github.com/venkatasai24/Face-Recognition-Attendance-System/blob/main/Accuracy%20Graph.jpeg" alt="Accuracy" width="400"/>
+    </div>
+    <div>
+        <h3>Loss</h3>
+        <img src="https://github.com/venkatasai24/Face-Recognition-Attendance-System/blob/main/Loss%20Graph.jpeg" alt="Loss" width="400"/>
+    </div>
+</div>
 
 ## Dependencies
 - Python 3.x
@@ -76,7 +88,7 @@ Datasets/
 - TensorFlow
 - Numpy
 - MatPlotLib
-
+  
 ## Contributors
 - Vedurupaka Venkata Sai
 - Ponnuru Aadarsh
