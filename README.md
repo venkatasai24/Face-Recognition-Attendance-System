@@ -29,6 +29,46 @@ This project implements a face recognition attendance system using VGG19, a popu
 4. Finally, run the `project.ipynb` script: `python project.ipynb`.
 5. The script will open your camera feed. It will recognize faces in real time and update the attendance CSV file accordingly.
 
+## Dataset Structure
+```
+Datasets/
+│
+├── Train/
+│   ├── venkat/
+│   │   ├── image1.jpg
+│   │   ├── image2.jpg
+│   │   ├── ...
+│   │   └── image80.jpg
+│   ├── adarsh/
+│   │   ├── image1.jpg
+│   │   ├── image2.jpg
+│   │   ├── ...
+│   │   └── image80.jpg
+│   └── santhosh/
+│       ├── image1.jpg
+│       ├── image2.jpg
+│       ├── ...
+│       └── image80.jpg
+│
+└── Test/
+    ├── venkat/
+    │   ├── image1.jpg
+    │   ├── image2.jpg
+    │   ├── ...
+    │   └── image20.jpg
+    ├── adarsh/
+    │   ├── image1.jpg
+    │   ├── image2.jpg
+    │   ├── ...
+    │   └── image20.jpg
+    └── santhosh/
+        ├── image1.jpg
+        ├── image2.jpg
+        ├── ...
+        └── image20.jpg
+```
+
+
 ## Dependencies
 - Python 3.x
 - OpenCV
