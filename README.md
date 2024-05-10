@@ -39,7 +39,7 @@ Datasets/
 │   │   ├── image2.jpg
 │   │   ├── ...
 │   │   └── image80.jpg
-│   ├── adarsh/
+│   ├── Aadarsh/
 │   │   ├── image1.jpg
 │   │   ├── image2.jpg
 │   │   ├── ...
